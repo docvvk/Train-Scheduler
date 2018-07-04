@@ -1,3 +1,21 @@
+$(function() {
+    $('#slider').rbtSlider({
+  
+        height: '100vh', 
+      
+        // displays dots pagination
+        'dots': true,
+      
+        // displayes arrows navigation
+        'arrows': false,
+      
+        // autoplay interval
+        // 3 = 3 seconds
+        'auto': 8
+      
+      });
+})
+
 // Initialize Firebase
 var config = {
    apiKey: "AIzaSyBApaFM7giiJHaUClMM7uj31qR1f80RlLc",
