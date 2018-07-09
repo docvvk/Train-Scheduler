@@ -4,7 +4,7 @@ $(function() {
         height: '100vh', 
       
         // displays dots pagination
-        'dots': true,
+        'dots': false,
       
         // displayes arrows navigation
         'arrows': false,
