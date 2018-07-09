@@ -54,7 +54,7 @@
 }
 .slText2 {
     position: relative;
-    top: 49%;
+    top: 54%;
     left: 50%;
     max-width: 100%;
     width: 100%;
@@ -193,9 +193,7 @@
     }
 }
 @media (max-width: 576px) {
-    * {
-        overflow: scroll;
-    }
+    
     .slText {
         font-size: 2vw;
         padding: 0;
@@ -206,7 +204,7 @@
     }
     .slText2 {
         position: relative;
-        top: 51%;
+        top: 56%;
         font-size: 15px;
         max-width: 100%;
         padding: 0;
