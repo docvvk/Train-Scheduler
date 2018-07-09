@@ -36,7 +36,7 @@
     font-family: 'Times New Roman', Times, serif;
     position: relative;
     top: 9%;
-    left: 50%;
+    left: 51%;
     max-width: 100%;
     width: 100%;
     padding: 0 vw;
@@ -54,7 +54,7 @@
 }
 .slText2 {
     position: relative;
-    top: 54%;
+    top: 53%;
     left: 50%;
     max-width: 100%;
     width: 100%;
@@ -201,6 +201,7 @@
         text-transform: uppercase;
         position: relative;
         top: 8%;
+        width: 100%;
     }
     .slText2 {
         position: relative;
